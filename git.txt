@@ -13,3 +13,6 @@ git init # inicia el repositorio
 # merge
 # pull 
 # status
+
+# add 
+# checkout 
