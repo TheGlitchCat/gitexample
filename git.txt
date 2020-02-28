@@ -2,8 +2,14 @@
 
 git init # inicia el repositorio 
 
-# useless code
-
 # adding some useful code 
 
-# Adding more code 
+# Adding more code blablabla 
+
+# help 
+# commit 
+# branch 
+# staging 
+# merge
+# pull 
+# status
