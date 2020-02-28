@@ -2,36 +2,4 @@
 
 git init # inicia el repositorio 
 
-
-asdfjhagsdfjkasdfas
-asdfjlhasgdfkjasghf
-asdfkajgfaksjdgfas
-fashdfgaskdfhgasdf
-asdfkagsdfkajsdghasjkdf
-asdfkajsgfkajsdgasbfasdgfaskdjfgasdf
-
-asdfjhagsdfjkasdfas
-asdfjlhasgdfkjasghf
-asdfkajgfaksjdgfas
-fashdfgaskdfhgasdf
-asdfkagsdfkajsdghasjkdf
-asdfkajsgfkajsdgasbfasdgfaskdjfgasdf
-
-asdfjhagsdfjkasdfas
-asdfjlhasgdfkjasghf
-asdfkajgfaksjdgfas
-fashdfgaskdfhgasdf
-asdfkagsdfkajsdghasjkdf
-asdfkajsgfkajsdgasbfasdgfaskdjfgasdf
-asdfjhagsdfjkasdfas
-asdfjlhasgdfkjasghf
-asdfkajgfaksjdgfas
-fashdfgaskdfhgasdf
-asdfkagsdfkajsdghasjkdf
-asdfkajsgfkajsdgasbfasdgfaskdjfgasdf
-asdfjhagsdfjkasdfas
-asdfjlhasgdfkjasghf
-asdfkajgfaksjdgfas
-fashdfgaskdfhgasdf
-asdfkagsdfkajsdghasjkdf
-asdfkajsgfkajsdgasbfasdgfaskdjfgasdf
+# useless code
