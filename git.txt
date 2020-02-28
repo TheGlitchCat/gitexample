@@ -16,3 +16,12 @@ git init # inicia el repositorio
 
 # add 
 # checkout 
+
+# more code
+
+# more more code 
+
+# really more code
+
+# REALLYYYY ADDING MORE CODE 
+
